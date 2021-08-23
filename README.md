@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3 title="hehehe"> Hey, I’m ningaard.</h3>
 
-<!--
-**ningaard/ningaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+**About me.**
+- ✏️ I’m a FiveM skinner.
+- 🙂 I like helping people.
+- ⌨️ I’m not really coding.
+- 🛒 I own an **danish** FiveM shop: discord.gg/ningaardsbutik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=ningaard&count_private=true&theme=dracula&title_color=FF0000&icon_color=FF0000&show_icons=true&hide=issues&border_color=FF0000&bg_color=404040)
+" alt="ningaard's GitHub Stats">
+<a href="https://discord.gg/ningaardsbutik">
+  <img align="left" alt="My danish shop." width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
