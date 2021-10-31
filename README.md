@@ -5,7 +5,6 @@
 
 **About me.**
 - ✏️ I’m a FiveM skinner.
-- 🙂 I like helping people.
 - ⌨️ I’m not really coding.
 - 🛒 I own an **danish** FiveM shop: discord.gg/ningaardsbutik
 
