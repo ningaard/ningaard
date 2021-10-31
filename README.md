@@ -4,7 +4,7 @@
 <br />
 
 **About me.**
-- ✏️ I’m a FiveM skinner.
+- ✏️ I’m skinning clothing in FiveM.
 - ⌨️ I’m not really coding.
 - 🛒 I own an **danish** FiveM shop: discord.gg/ningaardsbutik
 
