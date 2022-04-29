@@ -3,9 +3,6 @@
 <br />
 <br />
 
-**About me.**
-- ⌨️ I’m not coding lol
-
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=ningaard&count_private=true&theme=dracula&title_color=FF0000&icon_color=FF0000&show_icons=true&hide=issues&border_color=FF0000&bg_color=404040" alt="ningaards Github Stats" />
 
 <a href="https://discord.gg/ningaardsbutik">
